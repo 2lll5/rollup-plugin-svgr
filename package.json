@@ -6,6 +6,9 @@
   "author": "Christophe Hurpeau <christophe@hurpeau.com> (https://christophe.hurpeau.com)",
   "license": "ISC",
   "repository": "https://github.com/christophehurpeau/rollup-plugin-svgr.git",
+  "bugs": {
+    "url": "https://github.com/christophehurpeau/rollup-plugin-svgr/issues"
+  },
   "homepage": "https://github.com/christophehurpeau/rollup-plugin-svgr",
   "type": "module",
   "packageManager": "yarn@4.11.0",
